@@ -1,0 +1,2 @@
+C:/Users/Dell/Desktop/weplanmob/wedding_event_planner/android/app/.cxx/Debug/8594e6t3/x86/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Desktop/weplanmob/wedding_event_planner/android/app/.cxx/Debug/8594e6t3/x86/CMakeFiles/rebuild_cache.dir
